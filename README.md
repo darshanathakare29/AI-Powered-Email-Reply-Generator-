@@ -1,4 +1,4 @@
-AI-Powered Email Reply Generator
+**AI-Powered Email Reply Generator**
 
 An AI-driven email assistant built with Java Spring Boot and RESTful APIs, powered by Google Gemini AI, that generates smart, tone-adjustable email replies. This tool helps professionals and teams save time by drafting context-aware, polished responses with just one click.
 
