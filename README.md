@@ -15,12 +15,13 @@ An AI-driven email assistant built with Java Spring Boot and RESTful APIs, power
 🛠️ Tech Stack
 
 **Backend:** Java, Spring Boot
+**Frontend:** React.js
 
 **AI Engine:** Google Gemini AI
 
 **Architecture**: RESTful APIs
 
-**Email Integration:** (Gmail API / Outlook / custom)
+**Email Integration:** Gmail API 
 
 🚀 Use Cases
 
